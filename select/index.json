@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "ルージュの伝言/荒井由実 cover",
+  "base_artist": "永井琳子",
+  "createdAt": "2025-12-01T11:19:39.359267Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ルージュの伝言",
+      "artist": "ayaka",
+      "has_synced": false,
+      "path": "select/01_ルージュの伝言_ayaka.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ルージュの伝言",
+      "artist": "絢香",
+      "has_synced": false,
+      "path": "select/02_ルージュの伝言_絢香.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ルージュの伝言",
+      "artist": "荒井由実",
+      "has_synced": true,
+      "path": "select/03_ルージュの伝言_荒井由実.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ルージュの伝言",
+      "artist": "Yumi Arai",
+      "has_synced": true,
+      "path": "select/04_ルージュの伝言_Yumi_Arai.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ルージュの伝言",
+      "artist": "荒井由実",
+      "has_synced": true,
+      "path": "select/05_ルージュの伝言_荒井由実.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ルージュの伝言",
+      "artist": "Meja",
+      "has_synced": true,
+      "path": "select/06_ルージュの伝言_Meja.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ルージュの伝言",
+      "artist": "松任谷由実",
+      "has_synced": true,
+      "path": "select/07_ルージュの伝言_松任谷由実.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ルージュの伝言",
+      "artist": "Matsutoya, Yumi",
+      "has_synced": true,
+      "path": "select/08_ルージュの伝言_Matsutoya,_Yumi.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ルージュの伝言",
+      "artist": "セルティ・ストゥルルソン(CV:沢城みゆき)",
+      "has_synced": true,
+      "path": "select/09_ルージュの伝言_セルティ・ストゥルルソン(CV_沢城みゆき).lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ルージュの伝言",
+      "artist": "セルティ・ストゥルルソン (沢城みゆき)",
+      "has_synced": true,
+      "path": "select/10_ルージュの伝言_セルティ・ストゥルルソン_(沢城みゆき).lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ルージュの伝言",
+      "artist": "Yumi Arai",
+      "has_synced": true,
+      "path": "select/11_ルージュの伝言_Yumi_Arai.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ルージュの伝言 - Lipstick Message / Rouge No Dengon",
+      "artist": "Yumi Arai",
+      "has_synced": true,
+      "path": "select/12_ルージュの伝言_-_Lipstick_Message___Rouge_No_Dengon_Yumi_Arai.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ルージュの伝言 (2022 mix) - Lipstick Message / Rouge No Dengon (2022 Ｍix)",
+      "artist": "Yumi Arai",
+      "has_synced": true,
+      "path": "select/13_ルージュの伝言_(2022_mix)_-_Lipstick_Message___Rouge_No_Dengon_(2022_Mix)_Yumi_Arai.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ルージュの伝言",
+      "artist": "MEG",
+      "has_synced": false,
+      "path": "select/14_ルージュの伝言_MEG.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ルージュの伝言",
+      "artist": "柴咲 コウ",
+      "has_synced": false,
+      "path": "select/pl_01_ルージュの伝言_柴咲_コウ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ルージュの伝言",
+      "artist": "柴咲 コウ",
+      "has_synced": false,
+      "path": "select/pl_02_ルージュの伝言_柴咲_コウ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "ルージュの伝言",
+      "artist": "柴咲 コウ",
+      "has_synced": false,
+      "path": "select/pl_03_ルージュの伝言_柴咲_コウ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "ルージュの伝言",
+      "artist": "柴咲 コウ",
+      "has_synced": false,
+      "path": "select/pl_04_ルージュの伝言_柴咲_コウ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "ルージュの伝言",
+      "artist": "柴咲 コウ",
+      "has_synced": false,
+      "path": "select/pl_05_ルージュの伝言_柴咲_コウ.txt"
+    }
+  ]
+}
